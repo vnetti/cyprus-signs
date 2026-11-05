@@ -1,0 +1,1129 @@
+[
+ {
+  "id": "warning-falling-rocks",
+  "category": "warning",
+  "name": "Falling rocks",
+  "desc": "",
+  "img": "img/warning/falling-rocks.png"
+ },
+ {
+  "id": "warning-cattle",
+  "category": "warning",
+  "name": "Cattle",
+  "desc": "",
+  "img": "img/warning/cattle.png"
+ },
+ {
+  "id": "warning-wild-animals",
+  "category": "warning",
+  "name": "Wild animals",
+  "desc": "",
+  "img": "img/warning/wild-animals.png"
+ },
+ {
+  "id": "warning-side-winds",
+  "category": "warning",
+  "name": "Side winds",
+  "desc": "",
+  "img": "img/warning/side-winds.png"
+ },
+ {
+  "id": "warning-frequent-use-of-the-road-by-pedestrians",
+  "category": "warning",
+  "name": "Frequent use of the road by pedestrians",
+  "desc": "",
+  "img": "img/warning/frequent-use-of-the-road-by-pedestrians.png"
+ },
+ {
+  "id": "warning-uneven-road",
+  "category": "warning",
+  "name": "Uneven road",
+  "desc": "",
+  "img": "img/warning/uneven-road.png"
+ },
+ {
+  "id": "warning-humped-bridge",
+  "category": "warning",
+  "name": "Humped bridge",
+  "desc": "",
+  "img": "img/warning/humped-bridge.png"
+ },
+ {
+  "id": "warning-road-hump-ahead",
+  "category": "warning",
+  "name": "Road hump ahead",
+  "desc": "",
+  "img": "img/warning/road-hump-ahead.png"
+ },
+ {
+  "id": "warning-pedestrian-crossing",
+  "category": "warning",
+  "name": "Pedestrian crossing",
+  "desc": "",
+  "img": "img/warning/pedestrian-crossing.png"
+ },
+ {
+  "id": "warning-frequent-use-of-the-road-by-children",
+  "category": "warning",
+  "name": "Frequent use of the road by children",
+  "desc": "",
+  "img": "img/warning/frequent-use-of-the-road-by-children.png"
+ },
+ {
+  "id": "warning-frequent-use-of-the-road-by-the-elderly",
+  "category": "warning",
+  "name": "Frequent use of the road by the elderly",
+  "desc": "",
+  "img": "img/warning/frequent-use-of-the-road-by-the-elderly.png"
+ },
+ {
+  "id": "warning-school-crossing-children",
+  "category": "warning",
+  "name": "School crossing (children)",
+  "desc": "",
+  "img": "img/warning/school-crossing-children.png"
+ },
+ {
+  "id": "warning-verge-on-the-left",
+  "category": "warning",
+  "name": "Verge on the left",
+  "desc": "",
+  "img": "img/warning/verge-on-the-left.png"
+ },
+ {
+  "id": "warning-verge-on-the-right",
+  "category": "warning",
+  "name": "Verge on the right",
+  "desc": "",
+  "img": "img/warning/verge-on-the-right.png"
+ },
+ {
+  "id": "warning-two-way-traffic-straight-ahead",
+  "category": "warning",
+  "name": "Two-way traffic straight ahead",
+  "desc": "",
+  "img": "img/warning/two-way-traffic-straight-ahead.png"
+ },
+ {
+  "id": "warning-two-way-traffic-crosses-one-way-road",
+  "category": "warning",
+  "name": "Two-way traffic crosses one-way road",
+  "desc": "",
+  "img": "img/warning/two-way-traffic-crosses-one-way-road.png"
+ },
+ {
+  "id": "warning-tunnel-ahead",
+  "category": "warning",
+  "name": "Tunnel ahead",
+  "desc": "",
+  "img": "img/warning/tunnel-ahead.png"
+ },
+ {
+  "id": "warning-steep-hill-downwards",
+  "category": "warning",
+  "name": "Steep hill downwards",
+  "desc": "",
+  "img": "img/warning/steep-hill-downwards.png"
+ },
+ {
+  "id": "warning-steep-hill-upwards",
+  "category": "warning",
+  "name": "Steep hill upwards",
+  "desc": "",
+  "img": "img/warning/steep-hill-upwards.png"
+ },
+ {
+  "id": "warning-roundabout-ahead",
+  "category": "warning",
+  "name": "Roundabout ahead",
+  "desc": "",
+  "img": "img/warning/roundabout-ahead.png"
+ },
+ {
+  "id": "warning-dangerous-bend-to-the-right",
+  "category": "warning",
+  "name": "Dangerous bend to the right",
+  "desc": "",
+  "img": "img/warning/dangerous-bend-to-the-right.png"
+ },
+ {
+  "id": "warning-dangerous-bend-to-the-left",
+  "category": "warning",
+  "name": "Dangerous bend to the left",
+  "desc": "",
+  "img": "img/warning/dangerous-bend-to-the-left.png"
+ },
+ {
+  "id": "warning-double-bend-first-to-right",
+  "category": "warning",
+  "name": "Double bend first to right",
+  "desc": "",
+  "img": "img/warning/double-bend-first-to-right.png"
+ },
+ {
+  "id": "warning-double-bend-first-to-left",
+  "category": "warning",
+  "name": "Double bend first to left",
+  "desc": "",
+  "img": "img/warning/double-bend-first-to-left.png"
+ },
+ {
+  "id": "warning-road-narrows-on-right",
+  "category": "warning",
+  "name": "Road narrows on right",
+  "desc": "",
+  "img": "img/warning/road-narrows-on-right.png"
+ },
+ {
+  "id": "warning-road-narrows-on-left",
+  "category": "warning",
+  "name": "Road narrows on left",
+  "desc": "",
+  "img": "img/warning/road-narrows-on-left.png"
+ },
+ {
+  "id": "warning-road-narrows-on-both-sides",
+  "category": "warning",
+  "name": "Road narrows on both sides",
+  "desc": "",
+  "img": "img/warning/road-narrows-on-both-sides.png"
+ },
+ {
+  "id": "warning-loose-surface",
+  "category": "warning",
+  "name": "Loose surface",
+  "desc": "",
+  "img": "img/warning/loose-surface.png"
+ },
+ {
+  "id": "warning-dual-carriageway-ends",
+  "category": "warning",
+  "name": "Dual carriageway ends",
+  "desc": "",
+  "img": "img/warning/dual-carriageway-ends.png"
+ },
+ {
+  "id": "warning-risk-of-ice",
+  "category": "warning",
+  "name": "Risk of ice",
+  "desc": "",
+  "img": "img/warning/risk-of-ice.png"
+ },
+ {
+  "id": "warning-warning-for-max-height",
+  "category": "warning",
+  "name": "Warning for max height",
+  "desc": "",
+  "img": "img/warning/warning-for-max-height.png"
+ },
+ {
+  "id": "warning-overhead-electric-cables",
+  "category": "warning",
+  "name": "Overhead electric cables",
+  "desc": "",
+  "img": "img/warning/overhead-electric-cables.png"
+ },
+ {
+  "id": "warning-junctions-with-secondary-roads-variant-1",
+  "category": "warning",
+  "name": "Staggered junction with secondary roads (left, then right)",
+  "desc": "",
+  "img": "img/warning/junctions-with-secondary-roads-variant-1.png"
+ },
+ {
+  "id": "warning-junctions-with-secondary-roads-variant-2",
+  "category": "warning",
+  "name": "Secondary road joining at an angle from the left",
+  "desc": "",
+  "img": "img/warning/junctions-with-secondary-roads-variant-2.png"
+ },
+ {
+  "id": "warning-junctions-with-secondary-roads-variant-3",
+  "category": "warning",
+  "name": "Secondary road joining at an angle from the right",
+  "desc": "",
+  "img": "img/warning/junctions-with-secondary-roads-variant-3.png"
+ },
+ {
+  "id": "warning-junctions-with-secondary-roads-variant-4",
+  "category": "warning",
+  "name": "Crossroads with a secondary road",
+  "desc": "",
+  "img": "img/warning/junctions-with-secondary-roads-variant-4.png"
+ },
+ {
+  "id": "warning-junctions-with-secondary-roads-variant-5",
+  "category": "warning",
+  "name": "Junction with a secondary road on the right",
+  "desc": "",
+  "img": "img/warning/junctions-with-secondary-roads-variant-5.png"
+ },
+ {
+  "id": "warning-junctions-with-secondary-roads-variant-6",
+  "category": "warning",
+  "name": "Junction with a secondary road on the left",
+  "desc": "",
+  "img": "img/warning/junctions-with-secondary-roads-variant-6.png"
+ },
+ {
+  "id": "warning-trams-crossing-ahead",
+  "category": "warning",
+  "name": "Trams crossing ahead",
+  "desc": "",
+  "img": "img/warning/trams-crossing-ahead.png"
+ },
+ {
+  "id": "warning-traffic-lights",
+  "category": "warning",
+  "name": "Traffic lights",
+  "desc": "",
+  "img": "img/warning/traffic-lights.png"
+ },
+ {
+  "id": "warning-junction-on-bend-ahead-variant-2",
+  "category": "warning",
+  "name": "Junction on bend ahead (side road on the right)",
+  "desc": "",
+  "img": "img/warning/junction-on-bend-ahead-variant-2.png"
+ },
+ {
+  "id": "warning-junction-on-bend-ahead-variant-1",
+  "category": "warning",
+  "name": "Junction on bend ahead (side road on the left)",
+  "desc": "",
+  "img": "img/warning/junction-on-bend-ahead-variant-1.png"
+ },
+ {
+  "id": "warning-slippery-road",
+  "category": "warning",
+  "name": "Slippery road",
+  "desc": "",
+  "img": "img/warning/slippery-road.png"
+ },
+ {
+  "id": "warning-level-crossing-without-barrier-warning-triangle",
+  "category": "warning",
+  "name": "Level crossing without barrier (warning triangle)",
+  "desc": "Warning that a level crossing without barriers or gates is ahead.",
+  "img": "img/warning/level-crossing-without-barrier-warning-triangle.png"
+ },
+ {
+  "id": "warning-grounding-danger",
+  "category": "warning",
+  "name": "Grounding danger",
+  "desc": "",
+  "img": "img/warning/grounding-danger.png"
+ },
+ {
+  "id": "warning-traffic-queues-likely-ahead",
+  "category": "warning",
+  "name": "Traffic queues likely ahead",
+  "desc": "",
+  "img": "img/warning/traffic-queues-likely-ahead.png"
+ },
+ {
+  "id": "warning-agricultural-vehicles",
+  "category": "warning",
+  "name": "Agricultural vehicles",
+  "desc": "",
+  "img": "img/warning/agricultural-vehicles.png"
+ },
+ {
+  "id": "warning-controlled-level-crossing-with-barrier-gate",
+  "category": "warning",
+  "name": "Controlled level crossing (with barrier/gate)",
+  "desc": "",
+  "img": "img/warning/controlled-level-crossing-with-barrier-gate.png"
+ },
+ {
+  "id": "warning-road-works",
+  "category": "warning",
+  "name": "Road works",
+  "desc": "",
+  "img": "img/warning/road-works.png"
+ },
+ {
+  "id": "warning-low-flying-aircraft-or-sudden-aircraft-noise",
+  "category": "warning",
+  "name": "Low-flying aircraft or sudden aircraft noise",
+  "desc": "",
+  "img": "img/warning/low-flying-aircraft-or-sudden-aircraft-noise.png"
+ },
+ {
+  "id": "warning-low-flying-helicopter-or-sudden-helicopter-noise",
+  "category": "warning",
+  "name": "Low-flying helicopter or sudden helicopter noise",
+  "desc": "",
+  "img": "img/warning/low-flying-helicopter-or-sudden-helicopter-noise.png"
+ },
+ {
+  "id": "warning-other-dangers",
+  "category": "warning",
+  "name": "Other dangers",
+  "desc": "",
+  "img": "img/warning/other-dangers.png"
+ },
+ {
+  "id": "warning-slow-moving-heavy-vehicles-on-uphill",
+  "category": "warning",
+  "name": "Slow-moving heavy vehicles on uphill",
+  "desc": "",
+  "img": "img/warning/slow-moving-heavy-vehicles-on-uphill.png"
+ },
+ {
+  "id": "warning-give-way-ahead-distance-warning",
+  "category": "warning",
+  "name": "Give way ahead (distance warning)",
+  "desc": "Warning, with distance shown, that a priority road with a give-way line is being approached.",
+  "img": "img/warning/give-way-ahead-distance-warning.png"
+ },
+ {
+  "id": "warning-stop-ahead-distance-warning",
+  "category": "warning",
+  "name": "STOP ahead (distance warning)",
+  "desc": "Warning, with distance shown, that a compulsory STOP line is being approached.",
+  "img": "img/warning/stop-ahead-distance-warning.png"
+ },
+ {
+  "id": "warning-level-crossing-without-barrier-st-andrew-s-cross",
+  "category": "warning",
+  "name": "Level crossing without barrier (St Andrew's cross)",
+  "desc": "Cross-shaped sign placed at a level crossing without barriers.",
+  "img": "img/warning/level-crossing-without-barrier-st-andrew-s-cross.png"
+ },
+ {
+  "id": "warning-crossroads-with-priority-to-the-right",
+  "category": "warning",
+  "name": "Crossroads with priority to the right",
+  "desc": "",
+  "img": "img/warning/crossroads-with-priority-to-the-right.png"
+ },
+ {
+  "id": "warning-countdown-markers",
+  "category": "warning",
+  "name": "Countdown markers",
+  "desc": "Countdown markers may be placed when approaching a dangerous crossing. They divide the distance between the advance warning sign and the crossing into three equal parts.",
+  "img": "img/warning/countdown-markers.png"
+ },
+ {
+  "id": "warning-route-change-to-the-left-at-road-works",
+  "category": "warning",
+  "name": "Route change to the left at road works",
+  "desc": "Sharp deviation of the route to the left at road works or another temporary obstruction.",
+  "img": "img/warning/route-change-to-the-left-at-road-works.png"
+ },
+ {
+  "id": "warning-route-change-to-the-right-at-road-works",
+  "category": "warning",
+  "name": "Route change to the right at road works",
+  "desc": "Sharp deviation of the route to the right at road works or another temporary obstruction.",
+  "img": "img/warning/route-change-to-the-right-at-road-works.png"
+ },
+ {
+  "id": "warning-route-change-to-either-side-at-road-works",
+  "category": "warning",
+  "name": "Route change to either side at road works",
+  "desc": "Route deviation to the left or right.",
+  "img": "img/warning/route-change-to-either-side-at-road-works.png"
+ },
+ {
+  "id": "warning-compulsory-pass-on-the-right-of-island-or-obstacle",
+  "category": "warning",
+  "name": "Compulsory pass on the right of island or obstacle",
+  "desc": "",
+  "img": "img/warning/compulsory-pass-on-the-right-of-island-or-obstacle.png"
+ },
+ {
+  "id": "warning-compulsory-pass-on-the-left-of-island-or-obstacle",
+  "category": "warning",
+  "name": "Compulsory pass on the left of island or obstacle",
+  "desc": "",
+  "img": "img/warning/compulsory-pass-on-the-left-of-island-or-obstacle.png"
+ },
+ {
+  "id": "warning-compulsory-pass-on-either-side-of-island-or-obstacle",
+  "category": "warning",
+  "name": "Compulsory pass on either side of island or obstacle",
+  "desc": "",
+  "img": "img/warning/compulsory-pass-on-either-side-of-island-or-obstacle.png"
+ },
+ {
+  "id": "regulatory-no-handcarts",
+  "category": "regulatory",
+  "name": "No handcarts",
+  "desc": "",
+  "img": "img/regulatory/no-handcarts.png"
+ },
+ {
+  "id": "regulatory-no-motorcycles",
+  "category": "regulatory",
+  "name": "No motorcycles",
+  "desc": "",
+  "img": "img/regulatory/no-motorcycles.png"
+ },
+ {
+  "id": "regulatory-no-mopeds",
+  "category": "regulatory",
+  "name": "No mopeds",
+  "desc": "",
+  "img": "img/regulatory/no-mopeds.png"
+ },
+ {
+  "id": "regulatory-no-pedestrians",
+  "category": "regulatory",
+  "name": "No pedestrians",
+  "desc": "",
+  "img": "img/regulatory/no-pedestrians.png"
+ },
+ {
+  "id": "regulatory-no-motor-vehicles-except-two-wheeled-motorcycles",
+  "category": "regulatory",
+  "name": "No motor vehicles except two-wheeled motorcycles",
+  "desc": "",
+  "img": "img/regulatory/no-motor-vehicles-except-two-wheeled-motorcycles.png"
+ },
+ {
+  "id": "regulatory-no-agricultural-tractors",
+  "category": "regulatory",
+  "name": "No agricultural tractors",
+  "desc": "",
+  "img": "img/regulatory/no-agricultural-tractors.png"
+ },
+ {
+  "id": "regulatory-no-animal-drawn-vehicles",
+  "category": "regulatory",
+  "name": "No animal-drawn vehicles",
+  "desc": "",
+  "img": "img/regulatory/no-animal-drawn-vehicles.png"
+ },
+ {
+  "id": "regulatory-no-passing-without-stopping-at-toll-station",
+  "category": "regulatory",
+  "name": "No passing without stopping at toll station",
+  "desc": "",
+  "img": "img/regulatory/no-passing-without-stopping-at-toll-station.png"
+ },
+ {
+  "id": "regulatory-no-use-of-audible-warning-devices-horn",
+  "category": "regulatory",
+  "name": "No use of audible warning devices (horn)",
+  "desc": "",
+  "img": "img/regulatory/no-use-of-audible-warning-devices-horn.png"
+ },
+ {
+  "id": "regulatory-no-passing-without-stopping-at-customs",
+  "category": "regulatory",
+  "name": "No passing without stopping at customs",
+  "desc": "",
+  "img": "img/regulatory/no-passing-without-stopping-at-customs.png"
+ },
+ {
+  "id": "regulatory-minimum-distance-to-vehicle-in-front-e-g-70-m",
+  "category": "regulatory",
+  "name": "Minimum distance to vehicle in front (e.g. 70 m)",
+  "desc": "",
+  "img": "img/regulatory/minimum-distance-to-vehicle-in-front-e-g-70-m.png"
+ },
+ {
+  "id": "regulatory-no-motor-vehicles",
+  "category": "regulatory",
+  "name": "No motor vehicles",
+  "desc": "",
+  "img": "img/regulatory/no-motor-vehicles.png"
+ },
+ {
+  "id": "regulatory-priority-over-oncoming-traffic-narrow-road",
+  "category": "regulatory",
+  "name": "Priority over oncoming traffic (narrow road)",
+  "desc": "",
+  "img": "img/regulatory/priority-over-oncoming-traffic-narrow-road.png"
+ },
+ {
+  "id": "regulatory-road-closed-to-all-vehicles-in-both-directions",
+  "category": "regulatory",
+  "name": "Road closed to all vehicles in both directions",
+  "desc": "",
+  "img": "img/regulatory/road-closed-to-all-vehicles-in-both-directions.png"
+ },
+ {
+  "id": "regulatory-no-vehicles-wider-than-shown-e-g-2-m",
+  "category": "regulatory",
+  "name": "No vehicles wider than shown (e.g. 2 m)",
+  "desc": "",
+  "img": "img/regulatory/no-vehicles-wider-than-shown-e-g-2-m.png"
+ },
+ {
+  "id": "regulatory-no-vehicles-higher-than-shown-e-g-3-8-m",
+  "category": "regulatory",
+  "name": "No vehicles higher than shown (e.g. 3.8 m)",
+  "desc": "",
+  "img": "img/regulatory/no-vehicles-higher-than-shown-e-g-3-8-m.png"
+ },
+ {
+  "id": "regulatory-no-goods-vehicles",
+  "category": "regulatory",
+  "name": "No goods vehicles",
+  "desc": "",
+  "img": "img/regulatory/no-goods-vehicles.png"
+ },
+ {
+  "id": "regulatory-no-goods-vehicles-over-the-gross-weight-shown",
+  "category": "regulatory",
+  "name": "No goods vehicles over the gross weight shown",
+  "desc": "",
+  "img": "img/regulatory/no-goods-vehicles-over-the-gross-weight-shown.png"
+ },
+ {
+  "id": "regulatory-no-motor-vehicles-towing-another-vehicle-except-two-wheeled-or-single-",
+  "category": "regulatory",
+  "name": "No motor vehicles towing another vehicle (except two-wheeled or single-axle)",
+  "desc": "",
+  "img": "img/regulatory/no-motor-vehicles-towing-another-vehicle-except-two-wheeled-or-single-.png"
+ },
+ {
+  "id": "regulatory-no-entry",
+  "category": "regulatory",
+  "name": "No entry",
+  "desc": "",
+  "img": "img/regulatory/no-entry.png"
+ },
+ {
+  "id": "regulatory-no-right-turn",
+  "category": "regulatory",
+  "name": "No right turn",
+  "desc": "",
+  "img": "img/regulatory/no-right-turn.png"
+ },
+ {
+  "id": "regulatory-no-right-turn-variant-2",
+  "category": "regulatory",
+  "name": "No right turn",
+  "desc": "",
+  "img": "img/regulatory/no-right-turn-variant-2.png"
+ },
+ {
+  "id": "regulatory-no-left-turn",
+  "category": "regulatory",
+  "name": "No left turn",
+  "desc": "",
+  "img": "img/regulatory/no-left-turn.png"
+ },
+ {
+  "id": "regulatory-maximum-speed-limit-e-g-50-km-h",
+  "category": "regulatory",
+  "name": "Maximum speed limit (e.g. 50 km/h)",
+  "desc": "",
+  "img": "img/regulatory/maximum-speed-limit-e-g-50-km-h.png"
+ },
+ {
+  "id": "regulatory-end-of-speed-limit",
+  "category": "regulatory",
+  "name": "End of speed limit",
+  "desc": "",
+  "img": "img/regulatory/end-of-speed-limit.png"
+ },
+ {
+  "id": "regulatory-give-way-to-oncoming-traffic-narrow-road",
+  "category": "regulatory",
+  "name": "Give way to oncoming traffic (narrow road)",
+  "desc": "",
+  "img": "img/regulatory/give-way-to-oncoming-traffic-narrow-road.png"
+ },
+ {
+  "id": "regulatory-no-overtaking",
+  "category": "regulatory",
+  "name": "No overtaking",
+  "desc": "",
+  "img": "img/regulatory/no-overtaking.png"
+ },
+ {
+  "id": "regulatory-end-of-no-overtaking",
+  "category": "regulatory",
+  "name": "End of no overtaking",
+  "desc": "",
+  "img": "img/regulatory/end-of-no-overtaking.png"
+ },
+ {
+  "id": "regulatory-no-overtaking-by-goods-vehicles",
+  "category": "regulatory",
+  "name": "No overtaking by goods vehicles",
+  "desc": "",
+  "img": "img/regulatory/no-overtaking-by-goods-vehicles.png"
+ },
+ {
+  "id": "regulatory-no-vehicles-over-axle-weight-shown-e-g-8-tonnes",
+  "category": "regulatory",
+  "name": "No vehicles over axle weight shown (e.g. 8 tonnes)",
+  "desc": "",
+  "img": "img/regulatory/no-vehicles-over-axle-weight-shown-e-g-8-tonnes.png"
+ },
+ {
+  "id": "regulatory-end-of-all-local-prohibitions",
+  "category": "regulatory",
+  "name": "End of all local prohibitions",
+  "desc": "",
+  "img": "img/regulatory/end-of-all-local-prohibitions.png"
+ },
+ {
+  "id": "regulatory-no-vehicles-longer-than-shown-e-g-10-m",
+  "category": "regulatory",
+  "name": "No vehicles longer than shown (e.g. 10 m)",
+  "desc": "",
+  "img": "img/regulatory/no-vehicles-longer-than-shown-e-g-10-m.png"
+ },
+ {
+  "id": "regulatory-no-vehicles-carrying-water-polluting-goods",
+  "category": "regulatory",
+  "name": "No vehicles carrying water-polluting goods",
+  "desc": "",
+  "img": "img/regulatory/no-vehicles-carrying-water-polluting-goods.png"
+ },
+ {
+  "id": "regulatory-no-vehicles-over-gross-weight-shown-e-g-5-5-tonnes",
+  "category": "regulatory",
+  "name": "No vehicles over gross weight shown (e.g. 5.5 tonnes)",
+  "desc": "",
+  "img": "img/regulatory/no-vehicles-over-gross-weight-shown-e-g-5-5-tonnes.png"
+ },
+ {
+  "id": "regulatory-no-vehicles-carrying-explosive-or-flammable-goods",
+  "category": "regulatory",
+  "name": "No vehicles carrying explosive or flammable goods",
+  "desc": "",
+  "img": "img/regulatory/no-vehicles-carrying-explosive-or-flammable-goods.png"
+ },
+ {
+  "id": "regulatory-no-u-turn",
+  "category": "regulatory",
+  "name": "No U-turn",
+  "desc": "",
+  "img": "img/regulatory/no-u-turn.png"
+ },
+ {
+  "id": "regulatory-stop-for-police",
+  "category": "regulatory",
+  "name": "STOP for police",
+  "desc": "",
+  "img": "img/regulatory/stop-for-police.png"
+ },
+ {
+  "id": "regulatory-stop-compulsory-halt",
+  "category": "regulatory",
+  "name": "STOP (compulsory halt)",
+  "desc": "",
+  "img": "img/regulatory/stop-compulsory-halt.png"
+ },
+ {
+  "id": "regulatory-end-of-priority-road",
+  "category": "regulatory",
+  "name": "End of priority road",
+  "desc": "",
+  "img": "img/regulatory/end-of-priority-road.png"
+ },
+ {
+  "id": "regulatory-priority-road",
+  "category": "regulatory",
+  "name": "Priority road",
+  "desc": "",
+  "img": "img/regulatory/priority-road.png"
+ },
+ {
+  "id": "regulatory-stop-school-crossing-patrol",
+  "category": "regulatory",
+  "name": "STOP (school crossing patrol)",
+  "desc": "",
+  "img": "img/regulatory/stop-school-crossing-patrol.png"
+ },
+ {
+  "id": "regulatory-hand-sign-proceed-at-temporary-road-works",
+  "category": "regulatory",
+  "name": "Hand sign: proceed at temporary road works",
+  "desc": "",
+  "img": "img/regulatory/hand-sign-proceed-at-temporary-road-works.png"
+ },
+ {
+  "id": "regulatory-hand-sign-stop-at-temporary-road-works",
+  "category": "regulatory",
+  "name": "Hand sign: STOP at temporary road works",
+  "desc": "",
+  "img": "img/regulatory/hand-sign-stop-at-temporary-road-works.png"
+ },
+ {
+  "id": "regulatory-give-way",
+  "category": "regulatory",
+  "name": "Give way",
+  "desc": "",
+  "img": "img/regulatory/give-way.png"
+ },
+ {
+  "id": "regulatory-box-junction-no-stopping-except-to-wait-to-turn-right",
+  "category": "regulatory",
+  "name": "Box junction: no stopping except to wait to turn right",
+  "desc": "",
+  "img": "img/regulatory/box-junction-no-stopping-except-to-wait-to-turn-right.png"
+ },
+ {
+  "id": "regulatory-no-parking",
+  "category": "regulatory",
+  "name": "No parking",
+  "desc": "",
+  "img": "img/regulatory/no-parking.png"
+ },
+ {
+  "id": "regulatory-no-stopping-or-parking",
+  "category": "regulatory",
+  "name": "No stopping or parking",
+  "desc": "",
+  "img": "img/regulatory/no-stopping-or-parking.png"
+ },
+ {
+  "id": "regulatory-parking-in-rotation-no-parking-on-odd-dates-e-g-11th",
+  "category": "regulatory",
+  "name": "Parking in rotation: no parking on odd dates (e.g. 11th)",
+  "desc": "",
+  "img": "img/regulatory/parking-in-rotation-no-parking-on-odd-dates-e-g-11th.png"
+ },
+ {
+  "id": "regulatory-parking-in-rotation-no-parking-on-even-dates-e-g-12th",
+  "category": "regulatory",
+  "name": "Parking in rotation: no parking on even dates (e.g. 12th)",
+  "desc": "",
+  "img": "img/regulatory/parking-in-rotation-no-parking-on-even-dates-e-g-12th.png"
+ },
+ {
+  "id": "regulatory-restricted-duration-parking-zone",
+  "category": "regulatory",
+  "name": "Restricted-duration parking zone",
+  "desc": "",
+  "img": "img/regulatory/restricted-duration-parking-zone.png"
+ },
+ {
+  "id": "regulatory-exit-from-restricted-duration-parking-zone",
+  "category": "regulatory",
+  "name": "Exit from restricted-duration parking zone",
+  "desc": "",
+  "img": "img/regulatory/exit-from-restricted-duration-parking-zone.png"
+ },
+ {
+  "id": "mandatory-ahead-only",
+  "category": "mandatory",
+  "name": "Ahead only",
+  "desc": "",
+  "img": "img/mandatory/ahead-only.png"
+ },
+ {
+  "id": "mandatory-turn-left",
+  "category": "mandatory",
+  "name": "Turn left",
+  "desc": "",
+  "img": "img/mandatory/turn-left.png"
+ },
+ {
+  "id": "mandatory-turn-right",
+  "category": "mandatory",
+  "name": "Turn right",
+  "desc": "",
+  "img": "img/mandatory/turn-right.png"
+ },
+ {
+  "id": "mandatory-pass-on-the-left-of-island-or-obstacle",
+  "category": "mandatory",
+  "name": "Pass on the left of island or obstacle",
+  "desc": "",
+  "img": "img/mandatory/pass-on-the-left-of-island-or-obstacle.png"
+ },
+ {
+  "id": "mandatory-pass-on-the-right-of-island-or-obstacle",
+  "category": "mandatory",
+  "name": "Pass on the right of island or obstacle",
+  "desc": "",
+  "img": "img/mandatory/pass-on-the-right-of-island-or-obstacle.png"
+ },
+ {
+  "id": "mandatory-pass-on-either-side-of-island-or-obstacle",
+  "category": "mandatory",
+  "name": "Pass on either side of island or obstacle",
+  "desc": "",
+  "img": "img/mandatory/pass-on-either-side-of-island-or-obstacle.png"
+ },
+ {
+  "id": "mandatory-turn-left-ahead",
+  "category": "mandatory",
+  "name": "Turn left ahead",
+  "desc": "",
+  "img": "img/mandatory/turn-left-ahead.png"
+ },
+ {
+  "id": "mandatory-turn-right-ahead",
+  "category": "mandatory",
+  "name": "Turn right ahead",
+  "desc": "",
+  "img": "img/mandatory/turn-right-ahead.png"
+ },
+ {
+  "id": "mandatory-one-way-traffic",
+  "category": "mandatory",
+  "name": "One-way traffic",
+  "desc": "",
+  "img": "img/mandatory/one-way-traffic.png"
+ },
+ {
+  "id": "mandatory-one-way-traffic-start-of-one-way-road",
+  "category": "mandatory",
+  "name": "One-way traffic (start of one-way road)",
+  "desc": "",
+  "img": "img/mandatory/one-way-traffic-start-of-one-way-road.png"
+ },
+ {
+  "id": "mandatory-parking-place-for-a-vehicle-category-e-g-taxis",
+  "category": "mandatory",
+  "name": "Parking place for a vehicle category (e.g. taxis)",
+  "desc": "",
+  "img": "img/mandatory/parking-place-for-a-vehicle-category-e-g-taxis.png"
+ },
+ {
+  "id": "mandatory-compulsory-roundabout",
+  "category": "mandatory",
+  "name": "Compulsory roundabout",
+  "desc": "",
+  "img": "img/mandatory/compulsory-roundabout.png"
+ },
+ {
+  "id": "mandatory-minimum-speed",
+  "category": "mandatory",
+  "name": "Minimum speed",
+  "desc": "",
+  "img": "img/mandatory/minimum-speed.png"
+ },
+ {
+  "id": "mandatory-end-of-minimum-speed",
+  "category": "mandatory",
+  "name": "End of minimum speed",
+  "desc": "",
+  "img": "img/mandatory/end-of-minimum-speed.png"
+ },
+ {
+  "id": "mandatory-snow-chains-compulsory",
+  "category": "mandatory",
+  "name": "Snow chains compulsory",
+  "desc": "",
+  "img": "img/mandatory/snow-chains-compulsory.png"
+ },
+ {
+  "id": "mandatory-route-for-horse-riders-only",
+  "category": "mandatory",
+  "name": "Route for horse riders only",
+  "desc": "",
+  "img": "img/mandatory/route-for-horse-riders-only.png"
+ },
+ {
+  "id": "mandatory-ahead-or-left",
+  "category": "mandatory",
+  "name": "Ahead or left",
+  "desc": "",
+  "img": "img/mandatory/ahead-or-left.png"
+ },
+ {
+  "id": "mandatory-ahead-or-right",
+  "category": "mandatory",
+  "name": "Ahead or right",
+  "desc": "",
+  "img": "img/mandatory/ahead-or-right.png"
+ },
+ {
+  "id": "mandatory-turn-left-or-right",
+  "category": "mandatory",
+  "name": "Turn left or right",
+  "desc": "",
+  "img": "img/mandatory/turn-left-or-right.png"
+ },
+ {
+  "id": "mandatory-route-for-pedestrians-only",
+  "category": "mandatory",
+  "name": "Route for pedestrians only",
+  "desc": "",
+  "img": "img/mandatory/route-for-pedestrians-only.png"
+ },
+ {
+  "id": "lights-green-light",
+  "category": "lights",
+  "name": "Green light",
+  "desc": "The vehicle may cross the stop line and the traffic lights and proceed, unless its path is blocked by other vehicles.",
+  "img": "img/lights/green-light.png"
+ },
+ {
+  "id": "lights-yellow-light",
+  "category": "lights",
+  "name": "Yellow light",
+  "desc": "Means stop, like the red light, unless when the light changed from green to yellow the vehicle was so close to the stop line or the lights that stopping would have been dangerous.",
+  "img": "img/lights/yellow-light.png"
+ },
+ {
+  "id": "lights-red-light",
+  "category": "lights",
+  "name": "Red light",
+  "desc": "No vehicle may go beyond the stop line, or beyond the point from which the driver can see the traffic light on their left if the stop line is not clearly visible or not marked.",
+  "img": "img/lights/red-light.png"
+ },
+ {
+  "id": "lights-red-and-yellow-lights-together",
+  "category": "lights",
+  "name": "Red and yellow lights together",
+  "desc": "Gives the driver time to prepare to start and means the light is about to change to green; the red prohibition is not cancelled.",
+  "img": "img/lights/red-and-yellow-lights-together.png"
+ },
+ {
+  "id": "lights-flashing-yellow-light",
+  "category": "lights",
+  "name": "Flashing yellow light",
+  "desc": "At a signal-controlled junction it means the lights are faulty: drive with particular care, reduce speed and give way to vehicles approaching from the right. At a signal-controlled pedestrian crossing the vehicle must stop if a pedestrian is on the crossing.",
+  "img": "img/lights/flashing-yellow-light.png"
+ },
+ {
+  "id": "lights-red-light-with-green-arrows",
+  "category": "lights",
+  "name": "Red light with green arrows",
+  "desc": "A green arrow means the vehicle may cross the stop line and the lights and proceed in the direction of the arrows.",
+  "img": "img/lights/red-light-with-green-arrows.png"
+ },
+ {
+  "id": "markings-central-dividing-line-no-crossing",
+  "category": "markings",
+  "name": "Central dividing line: no crossing",
+  "desc": "",
+  "img": "img/markings/central-dividing-line-no-crossing.png"
+ },
+ {
+  "id": "markings-central-double-dividing-line-no-crossing",
+  "category": "markings",
+  "name": "Central double dividing line: no crossing",
+  "desc": "",
+  "img": "img/markings/central-double-dividing-line-no-crossing.png"
+ },
+ {
+  "id": "markings-central-mixed-dividing-line",
+  "category": "markings",
+  "name": "Central mixed dividing line",
+  "desc": "Crossing is allowed only for vehicles that have the broken line on their side of the road.",
+  "img": "img/markings/central-mixed-dividing-line.png"
+ },
+ {
+  "id": "markings-central-dividing-line-crossing-allowed-with-care",
+  "category": "markings",
+  "name": "Central dividing line: crossing allowed with care",
+  "desc": "",
+  "img": "img/markings/central-dividing-line-crossing-allowed-with-care.png"
+ },
+ {
+  "id": "markings-edge-line-white",
+  "category": "markings",
+  "name": "Edge line (white)",
+  "desc": "",
+  "img": "img/markings/edge-line-white.png"
+ },
+ {
+  "id": "markings-edge-line-yellow-no-parking-in-urban-roads",
+  "category": "markings",
+  "name": "Edge line (yellow): no parking in urban roads",
+  "desc": "",
+  "img": "img/markings/edge-line-yellow-no-parking-in-urban-roads.png"
+ },
+ {
+  "id": "markings-double-yellow-line-no-stopping-or-parking-in-urban-roads",
+  "category": "markings",
+  "name": "Double yellow line: no stopping or parking in urban roads",
+  "desc": "",
+  "img": "img/markings/double-yellow-line-no-stopping-or-parking-in-urban-roads.png"
+ },
+ {
+  "id": "markings-guide-line-at-vehicle-or-bus-bays-white-or-yellow",
+  "category": "markings",
+  "name": "Guide line at vehicle or bus bays (white or yellow)",
+  "desc": "",
+  "img": "img/markings/guide-line-at-vehicle-or-bus-bays-white-or-yellow.png"
+ },
+ {
+  "id": "warden-stop-vehicle-approaching-from-the-front",
+  "category": "warden",
+  "name": "Stop: vehicle approaching from the front",
+  "desc": "",
+  "img": "img/warden/stop-vehicle-approaching-from-the-front.png"
+ },
+ {
+  "id": "warden-stop-vehicle-approaching-from-behind",
+  "category": "warden",
+  "name": "Stop: vehicle approaching from behind",
+  "desc": "",
+  "img": "img/warden/stop-vehicle-approaching-from-behind.png"
+ },
+ {
+  "id": "warden-stop-vehicles-approaching-from-front-and-behind",
+  "category": "warden",
+  "name": "Stop: vehicles approaching from front and behind",
+  "desc": "",
+  "img": "img/warden/stop-vehicles-approaching-from-front-and-behind.png"
+ },
+ {
+  "id": "warden-proceed-vehicle-approaching-from-the-front",
+  "category": "warden",
+  "name": "Proceed: vehicle approaching from the front",
+  "desc": "",
+  "img": "img/warden/proceed-vehicle-approaching-from-the-front.png"
+ },
+ {
+  "id": "warden-proceed-vehicle-approaching-from-the-side",
+  "category": "warden",
+  "name": "Proceed: vehicle approaching from the side",
+  "desc": "",
+  "img": "img/warden/proceed-vehicle-approaching-from-the-side.png"
+ },
+ {
+  "id": "warden-proceed-vehicle-approaching-from-behind",
+  "category": "warden",
+  "name": "Proceed: vehicle approaching from behind",
+  "desc": "",
+  "img": "img/warden/proceed-vehicle-approaching-from-behind.png"
+ },
+ {
+  "id": "roundabouts-roundabout-with-two-entry-lanes-case-1",
+  "category": "roundabouts",
+  "name": "Roundabout, 2 lanes: left | ahead",
+  "desc": "Lane arrows before a roundabout, from the left lane to the right lane.",
+  "img": "img/roundabouts/roundabout-with-two-entry-lanes-case-1.png"
+ },
+ {
+  "id": "roundabouts-roundabout-with-two-entry-lanes-case-2",
+  "category": "roundabouts",
+  "name": "Roundabout, 2 lanes: left or ahead | ahead or right",
+  "desc": "Lane arrows before a roundabout, from the left lane to the right lane.",
+  "img": "img/roundabouts/roundabout-with-two-entry-lanes-case-2.png"
+ },
+ {
+  "id": "roundabouts-roundabout-with-two-entry-lanes-case-3",
+  "category": "roundabouts",
+  "name": "Roundabout, 2 lanes: ahead | right",
+  "desc": "Lane arrows before a roundabout, from the left lane to the right lane.",
+  "img": "img/roundabouts/roundabout-with-two-entry-lanes-case-3.png"
+ },
+ {
+  "id": "roundabouts-roundabout-with-two-entry-lanes-case-4",
+  "category": "roundabouts",
+  "name": "Roundabout, 2 lanes: left | ahead or right",
+  "desc": "Lane arrows before a roundabout, from the left lane to the right lane.",
+  "img": "img/roundabouts/roundabout-with-two-entry-lanes-case-4.png"
+ },
+ {
+  "id": "roundabouts-roundabout-with-three-entry-lanes-case-1",
+  "category": "roundabouts",
+  "name": "Roundabout, 3 lanes: left | ahead | right",
+  "desc": "Lane arrows before a roundabout, from the left lane to the right lane.",
+  "img": "img/roundabouts/roundabout-with-three-entry-lanes-case-1.png"
+ },
+ {
+  "id": "roundabouts-roundabout-with-three-entry-lanes-case-2",
+  "category": "roundabouts",
+  "name": "Roundabout, 3 lanes: left | ahead | ahead or right",
+  "desc": "Lane arrows before a roundabout, from the left lane to the right lane.",
+  "img": "img/roundabouts/roundabout-with-three-entry-lanes-case-2.png"
+ }
+]

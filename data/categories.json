@@ -1,0 +1,30 @@
+[
+ {
+  "key": "warning",
+  "title": "Warning Signs"
+ },
+ {
+  "key": "regulatory",
+  "title": "Regulatory Signs"
+ },
+ {
+  "key": "mandatory",
+  "title": "Mandatory Signs"
+ },
+ {
+  "key": "lights",
+  "title": "Traffic Lights"
+ },
+ {
+  "key": "markings",
+  "title": "Road Markings"
+ },
+ {
+  "key": "warden",
+  "title": "Traffic Warden Signals"
+ },
+ {
+  "key": "roundabouts",
+  "title": "Roundabouts"
+ }
+]
